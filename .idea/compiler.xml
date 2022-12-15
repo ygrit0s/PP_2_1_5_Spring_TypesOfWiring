@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="PP_2_1_5_spring-types-of-wiring" />
+        <module name="spring-types-of-wiring" />
+        <module name="PP_2_1_5_Spring_(types-of-wiring)" />
+        <module name="PP_2_1_5_Spring_TypesOfWiring" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
